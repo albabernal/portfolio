@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="31px" viewBox="0 0 1440 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Triangulos</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.495326451">
+        <g id="Home-Copy" transform="translate(0.000000, -762.000000)" fill="#8C7239">
+            <g id="Triangulos" transform="translate(720.500000, 777.500000) scale(1, -1) translate(-720.500000, -777.500000) translate(0.000000, 762.000000)">
+                <g transform="translate(1221.000000, 15.500000) scale(1, -1) translate(-1221.000000, -15.500000) translate(1001.000000, 0.000000)">
+                    <polygon id="Triangle" points="20.1372998 0 40.2745995 31 0 31"></polygon>
+                    <polygon id="Triangle" points="60.4118993 0 80.5491991 31 40.2745995 31"></polygon>
+                    <polygon id="Triangle-Copy-2" points="99.6796339 0 119.816934 31 79.5423341 31"></polygon>
+                    <polygon id="Triangle-Copy" points="139.954233 0 160.091533 31 119.816934 31"></polygon>
+                    <polygon id="Triangle-Copy-6" points="180.228833 0 200.366133 31 160.091533 31"></polygon>
+                    <polygon id="Triangle-Copy-5" points="220 0 239.633867 31 200.366133 31"></polygon>
+                    <polygon id="Triangle-Copy-4" points="259.771167 0 279.908467 31 239.633867 31"></polygon>
+                    <polygon id="Triangle-Copy-3" points="300.045767 0 320.183066 31 279.908467 31"></polygon>
+                    <polygon id="Triangle-Copy-10" points="340.320366 0 360.457666 31 320.183066 31"></polygon>
+                    <polygon id="Triangle-Copy-9" points="379.588101 0 399.7254 31 359.450801 31"></polygon>
+                    <polygon id="Triangle-Copy-8" points="419.8627 0 440 31 399.7254 31"></polygon>
+                </g>
+                <g transform="translate(780.000000, 15.500000) scale(1, -1) translate(-780.000000, -15.500000) translate(560.000000, 0.000000)">
+                    <polygon id="Triangle" points="20.1372998 0 40.2745995 31 0 31"></polygon>
+                    <polygon id="Triangle" points="60.4118993 0 80.5491991 31 40.2745995 31"></polygon>
+                    <polygon id="Triangle-Copy-2" points="99.6796339 0 119.816934 31 79.5423341 31"></polygon>
+                    <polygon id="Triangle-Copy" points="139.954233 0 160.091533 31 119.816934 31"></polygon>
+                    <polygon id="Triangle-Copy-6" points="180.228833 0 200.366133 31 160.091533 31"></polygon>
+                    <polygon id="Triangle-Copy-5" points="220 0 239.633867 31 200.366133 31"></polygon>
+                    <polygon id="Triangle-Copy-4" points="259.771167 0 279.908467 31 239.633867 31"></polygon>
+                    <polygon id="Triangle-Copy-3" points="300.045767 0 320.183066 31 279.908467 31"></polygon>
+                    <polygon id="Triangle-Copy-10" points="340.320366 0 360.457666 31 320.183066 31"></polygon>
+                    <polygon id="Triangle-Copy-9" points="379.588101 0 399.7254 31 359.450801 31"></polygon>
+                    <polygon id="Triangle-Copy-8" points="419.8627 0 440 31 399.7254 31"></polygon>
+                </g>
+                <g transform="translate(340.000000, 15.500000) scale(1, -1) translate(-340.000000, -15.500000) translate(120.000000, 0.000000)">
+                    <polygon id="Triangle" points="20.1372998 0 40.2745995 31 0 31"></polygon>
+                    <polygon id="Triangle" points="60.4118993 0 80.5491991 31 40.2745995 31"></polygon>
+                    <polygon id="Triangle-Copy-2" points="99.6796339 0 119.816934 31 79.5423341 31"></polygon>
+                    <polygon id="Triangle-Copy" points="139.954233 0 160.091533 31 119.816934 31"></polygon>
+                    <polygon id="Triangle-Copy-6" points="180.228833 0 200.366133 31 160.091533 31"></polygon>
+                    <polygon id="Triangle-Copy-5" points="220 0 239.633867 31 200.366133 31"></polygon>
+                    <polygon id="Triangle-Copy-4" points="259.771167 0 279.908467 31 239.633867 31"></polygon>
+                    <polygon id="Triangle-Copy-3" points="300.045767 0 320.183066 31 279.908467 31"></polygon>
+                    <polygon id="Triangle-Copy-10" points="340.320366 0 360.457666 31 320.183066 31"></polygon>
+                    <polygon id="Triangle-Copy-9" points="379.588101 0 399.7254 31 359.450801 31"></polygon>
+                    <polygon id="Triangle-Copy-8" points="419.8627 0 440 31 399.7254 31"></polygon>
+                </g>
+                <g transform="translate(60.000000, 15.500000) scale(1, -1) translate(-60.000000, -15.500000) ">
+                    <polygon id="Triangle-Copy-10" points="20.1680672 0 40.3361345 31 0 31"></polygon>
+                    <polygon id="Triangle-Copy-9" points="59.4957983 0 79.6638655 31 39.3277311 31"></polygon>
+                    <polygon id="Triangle-Copy-8" points="99.8319328 0 120 31 79.6638655 31"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
