@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="169px" height="114px" viewBox="0 0 169 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="167px" height="111px" viewBox="0 0 167 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
     <title>BCN</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Home-Copy" transform="translate(-636.000000, -557.000000)">
+        <g id="Home-Copy" transform="translate(-637.000000, -557.000000)">
             <g id="BCN" transform="translate(639.000000, 560.000000)">
                 <g id="Sagrada-familia" opacity="0.895554315" transform="translate(31.000000, 0.000000)">
                     <path d="M12.9014599,11.8068966 C16.3380771,11.8068966 20.6385637,42.8 25.8029197,104.786207 L0,104.786207 C5.16435601,42.8 9.46484263,11.8068966 12.9014599,11.8068966 Z" id="Path-8" fill="#403E43"></path>
                     <path d="M35.0182482,11.8068966 C38.4548654,11.8068966 42.755352,42.8 47.919708,104.786207 L22.1167883,104.786207 C27.2811443,42.8 31.5816309,11.8068966 35.0182482,11.8068966 Z" id="Path-8" fill="#403E43"></path>
                     <path d="M88.0985401,11.8068966 C91.5351574,11.8068966 95.835644,42.8 101,104.786207 L75.1970803,104.786207 C80.3614363,42.8 84.6619229,11.8068966 88.0985401,11.8068966 Z" id="Path-8" fill="#403E43"></path>
                     <path d="M67.4562044,11.8068966 C70.8928216,11.8068966 75.1933082,42.8 80.3576642,104.786207 L54.5547445,104.786207 C59.7191005,42.8 64.0195872,11.8068966 67.4562044,11.8068966 Z" id="Path-8" fill="#403E43"></path>
-                    <path d="M25.2250113,69.3656128 C23.5338016,69.79874 22.4203773,71.4119211 22.6152158,73.1468062 L25.8994836,102.390616 C26.0983457,104.161329 27.5957738,105.5 29.377618,105.5 L72.5717061,105.5 C74.3880109,105.5 75.9025041,104.110627 76.0587344,102.301054 L78.5159484,73.8398125 C78.6585488,72.18811 77.622784,70.66294 76.0348891,70.1864435 C64.4170362,66.7001074 55.8820943,64.962069 50.5,64.962069 C45.142111,64.962069 36.6977983,66.4273756 25.2250113,69.3656128 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#403E43"></path>
-                    <path d="M43.9386861,76.5824828 L47.4773723,104.786207" id="Line-3" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
-                    <path d="M57.7985401,76.5824828 L53.8175182,104.786207" id="Line-4" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
-                    <path d="M39.0729927,78.0763118 L43.4963504,104.786207" id="Line-5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
-                    <path d="M63.4014599,77.4827586 L57.3193431,104.786207" id="Line-8" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
-                    <path d="M50.8686131,74.3749337 L50.8686131,104.048276" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                    <path d="M25.1009624,68.8812453 C23.1681516,69.3762477 21.8956669,71.2198829 22.1183395,73.2026086 L25.4026072,102.446419 C25.6298782,104.47009 27.3412247,106 29.377618,106 L72.5717061,106 C74.6474831,106 76.3783324,104.412146 76.5568813,102.344062 L79.0140953,73.8828202 C79.1770672,71.9951603 77.9933356,70.2521085 76.1786001,69.7075415 C64.5176747,66.2082799 55.9425999,64.462069 50.5,64.462069 C45.0903583,64.462069 36.6111348,65.9334336 25.1009624,68.8812453 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" fill="#403E43"></path>
+                    <path d="M43.9386861,76.5824828 L47.4773723,104.786207" id="Line-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M57.7985401,76.5824828 L53.8175182,104.786207" id="Line-4" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M39.0729927,78.0763118 L43.4963504,104.786207" id="Line-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M63.4014599,77.4827586 L57.3193431,104.786207" id="Line-8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M50.8686131,74.3749337 L50.8686131,104.048276" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
                     <path d="M12.5328467,8.85517241 C14.9757997,8.85517241 16.9562044,6.87287455 16.9562044,4.42758621 C16.9562044,1.98229787 14.9757997,0 12.5328467,0 C10.0898937,0 8.10948905,1.98229787 8.10948905,4.42758621 C8.10948905,6.87287455 10.0898937,8.85517241 12.5328467,8.85517241 Z" id="Oval" stroke="#535054" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,5"></path>
                     <path d="M88.4671533,8.85517241 C90.9101063,8.85517241 92.8905109,6.87287455 92.8905109,4.42758621 C92.8905109,1.98229787 90.9101063,0 88.4671533,0 C86.0242003,0 84.0437956,1.98229787 84.0437956,4.42758621 C84.0437956,6.87287455 86.0242003,8.85517241 88.4671533,8.85517241 Z" id="Oval" stroke="#535054" stroke-width="5" stroke-linecap="round" stroke-dasharray="0,5"></path>
                     <path d="M67.8248175,8.85517241 C69.046294,8.85517241 70.0364964,7.69883199 70.0364964,6.27241379 C70.0364964,4.84599559 69.046294,3.68965517 67.8248175,3.68965517 C66.603341,3.68965517 65.6131387,4.84599559 65.6131387,6.27241379 C65.6131387,7.69883199 66.603341,8.85517241 67.8248175,8.85517241 Z" id="Oval" stroke="#535054" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,3"></path>
@@ -52,7 +52,7 @@
                     <ellipse id="Oval" fill="#FFFFFF" transform="translate(18.430657, 62.724138) scale(1, -1) translate(-18.430657, -62.724138) " cx="18.4306569" cy="62.7241379" rx="1.47445255" ry="1.47586207"></ellipse>
                     <ellipse id="Oval" fill="#FFFFFF" transform="translate(11.058394, 67.889655) scale(1, -1) translate(-11.058394, -67.889655) " cx="11.0583942" cy="67.8896552" rx="1.47445255" ry="1.47586207"></ellipse>
                 </g>
-                <path d="M163,107.5 L0.329959514,107.5" id="Line-17" stroke="#714B4E" stroke-width="6" stroke-linecap="round"></path>
+                <path d="M163,105.5 L0.329959514,105.5" id="Line-17" stroke="#714B4E" stroke-width="4" stroke-linecap="round"></path>
             </g>
         </g>
     </g>
