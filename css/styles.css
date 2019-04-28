@@ -47,7 +47,24 @@ main {
 
 
 /* ILLUSTRATION */
+.introilustracion{
+    display: flex;
+    justify-content: center;
 
+}
+.logoilustracion {
+    display: flex;
+    justify-content:center;
+    height: 50%;
+}
+.ilustracion {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 30%;
+}
 
 /* ABOUT */
 .contenidoenabout {
@@ -58,12 +75,10 @@ main {
     text-align:left;
     justify-content:space-around;
 
-
 }
 .imgalbabear {
     display: flex;
     justify-content:space-around;
 
-
-
 }
+
