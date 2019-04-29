@@ -43,6 +43,24 @@ main {
 }
 
 /* DESIGN */
+.introuxui{
+    display: flex;
+    justify-content: center;
+
+}
+.logouxui {
+    display: flex;
+    justify-content:center;
+    height: 40%;
+}
+.uxui {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 30%;
+}
 
 
 
