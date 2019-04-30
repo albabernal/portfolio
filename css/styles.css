@@ -1,27 +1,36 @@
 
+/* HOME */
 
 main {
-    background-color:#F2EBE6;
+    background-color: #F2EBE6;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
     height: 100%;
+    
+
+}
+.containerintro{
+background-color:#F2EBE6;  
+width: 100%;
+padding: 40px 0px;
 }
 
+.section1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
 
 .menu {
     display: flex;
     justify-content: space-around;
     align-items: center;
+  
 }
 
-/* HOME */
-
-.section1 {
- 
-    
-}
 
 .section2 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -30,11 +39,21 @@ main {
     text-align: center;
 }
 
+.section3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
 
 /* DESIGN */
+
 .containeruxui{
     background-color: white;
     width: 100%;
+    padding: 40px 0px;
+    
 }
 .uxui{
     display: flex;
@@ -49,7 +68,9 @@ main {
     justify-content: space-around;
     align-items: flex-start;
     height: 30%;
-}
+ 
+    }
+
 
 
 
@@ -58,6 +79,7 @@ main {
 .containerillustration{
     background-color: #D9D0BC;
     width: 100%;
+    padding: 40px 0px;
 }
 .illustration{
     display: flex;
@@ -65,7 +87,15 @@ main {
     color: #403E43;
 
 }
-.imgillustration {
+.imgillustrationarriba {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 30%;
+}
+.imgillustrationabajo {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -79,29 +109,41 @@ main {
 .containerabout{
     background-color:#F2EBE6; 
     width: 100%;
+    height: 100%;
+    padding: 40px 0px;
 }
-.ABOUT{
+.about{
+    display: flex;
+    justify-content: center;
+    color: #403E43;
+    
 
 } 
 .contenidoenabout {
     display: flex;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: medium;
     color: #403E43;
     text-align:left;
-    justify-content:space-around;
+    justify-content:center;
+    width: 50%;
+    height: 300px;
+    font-size: 1em;
+    line-height: 1.8em;
+    padding-left: 100px; padding-right: 100px;
+    height: fit-content;
 
+/* FOOTER */
 }
 .containerfooter {
 
     background-color: #A79A66;
     width: 100%;
     height: 50px;
+    padding: 40px 0px;
 
 }
 .contenidofooter {
 
 color: white;
+justify-content: center;
 }
-
-/* ABOUT */
