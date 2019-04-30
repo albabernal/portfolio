@@ -34,10 +34,12 @@ main {
 /* DESIGN */
 .containeruxui{
     background-color: white;
+    width: 100%;
 }
 .uxui{
     display: flex;
     justify-content: center;
+    color: #A79A66;
 
 }
 .imguxui {
@@ -55,10 +57,12 @@ main {
 
 .containerillustration{
     background-color: #D9D0BC;
+    width: 100%;
 }
 .illustration{
     display: flex;
     justify-content: center;
+    color: #403E43;
 
 }
 .imgillustration {
@@ -74,6 +78,7 @@ main {
 
 .containerabout{
     background-color:#F2EBE6; 
+    width: 100%;
 }
 .ABOUT{
 
@@ -87,4 +92,16 @@ main {
     justify-content:space-around;
 
 }
+.containerfooter {
 
+    background-color: #A79A66;
+    width: 100%;
+    height: 50px;
+
+}
+.contenidofooter {
+
+color: white;
+}
+
+/* ABOUT */
