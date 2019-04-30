@@ -51,12 +51,12 @@ main {
 
 
 /* ILLUSTRATION */
-.introilustracion{
+.illustration{
     display: flex;
     justify-content: center;
 
 }
-.ilustracion {
+.imgillustration {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
