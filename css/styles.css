@@ -6,17 +6,13 @@ main {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    height: calc(100vh - 70px);
+    height: 100%;
 }
 
-.main-header {
-    height: 70px;
-}
 
 .menu {
     display: flex;
     justify-content: space-around;
-    height: 100%;
     align-items: center;
 }
 
@@ -34,26 +30,16 @@ main {
     text-align: center;
 }
 
-.section3 {
-
-}
-
-.section4{
-
-}
 
 /* DESIGN */
-.introuxui{
+.uxui{
+    background-color: white;
     display: flex;
     justify-content: center;
 
 }
-.logouxui {
-    display: flex;
-    justify-content:center;
-    height: 40%;
-}
-.uxui {
+.imguxui {
+    background-color: white;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -69,11 +55,6 @@ main {
     display: flex;
     justify-content: center;
 
-}
-.logoilustracion {
-    display: flex;
-    justify-content:center;
-    height: 50%;
 }
 .ilustracion {
     display: flex;
