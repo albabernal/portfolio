@@ -1,5 +1,5 @@
 
-/* HOME */
+/* INTRO */
 
 main {
     background-color: #F2EBE6;
@@ -14,7 +14,7 @@ main {
 .containerintro{
 background-color:#F2EBE6;  
 width: 100%;
-padding: 40px 0px;
+padding: 50px 0px;
 }
 
 .section1{
@@ -27,12 +27,14 @@ padding: 40px 0px;
 
 .main-header {
     width: 100%;
+    color: #403E43;
 }
 
 .menu {
     display: flex;
     justify-content: space-around;
     align-items: center;
+  
   
 }
 
@@ -52,14 +54,17 @@ padding: 40px 0px;
     padding: 20px 0px;
 
 }
-
+.hello {
+    color:#A79A66;
+    font-weight: bold; 
+}
 
 /* DESIGN */
 
 .containeruxui{
     background-color: white;
     width: 100%;
-    padding: 20px 0px;
+    padding: 200px 0px;
     
 }
 .uxui{
@@ -77,7 +82,15 @@ padding: 40px 0px;
     padding: 20px 0px;
  
     }
-
+.textouxui {
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #403E43;
+    justify-content:center;
+    font-size: 1em;
+     width: 100%;  
+     padding: 20px 0px;
+}
 
 
 
@@ -86,7 +99,7 @@ padding: 40px 0px;
 .containerillustration{
     background-color: #D9D0BC;
     width: 100%;
-    padding: 40px 0px;
+    padding: 20px 0px;
 }
 .illustration{
     display: flex;
@@ -112,6 +125,16 @@ padding: 40px 0px;
     padding: 20px 0px;
 }
 
+.textoillustration {
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #403E43;
+    justify-content:center;
+    font-size: 1em;
+     width: 100%; 
+     padding: 20px 0px;    
+}
+
 /* ABOUT */
 
 .containerabout{
@@ -133,10 +156,22 @@ padding: 40px 0px;
     justify-content:center;
     font-size: 1em;
     padding-left: 25%; padding-right: 25%;
-    
+} 
+
+.chocolate {
+
+}
+
+.cat {
+
+}
+
+.boat {
+
+}
 
 /* FOOTER */
-}
+
 .containerfooter {
 
     background-color: #A79A66;
@@ -144,8 +179,19 @@ padding: 40px 0px;
     width: 100%;
     
 }
-.contenidofooter {
-
+.contenidofooterrrss {
+display: flex;
+width: 100%;
 color: white;
 justify-content: space-around;
+
+}
+
+.contenidofooterfirma {
+    display: flex;
+    width: 100%;
+    color: white;
+    justify-content: space-around;  
+    font-size: small;
+    padding: 20px 0px;
 }
