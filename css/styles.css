@@ -349,6 +349,16 @@ font-size: small;
     font-size: medium;
 }
 
+.contact {
+    text-decoration: none;
+    color: white;  
+
+}
+
+.contact:hover{
+    color: #403E43;
+}
+
 .linkedin  {
     text-decoration: none;
     color: white;
@@ -368,6 +378,16 @@ color: #403E43;
 
 .flecha a:hover {
     color: black;
+}
+
+.flecha {
+    opacity: 1;
+    visibility: visible;
+    transition: 0.5s;
+}
+.flecha.hide {
+    opacity: 0;
+    visibility: hidden;
 }
 
 /* RELART */
@@ -527,7 +547,7 @@ color: #403E43;
     text-align:left;
     justify-content:center;
     font-size: 1em;
-    padding: 5% 15%;
+    padding: 6% 15%;
     position: relative;
 } 
 
