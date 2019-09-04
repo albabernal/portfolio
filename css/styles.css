@@ -1,6 +1,9 @@
 
 /* INTRO */
 
+img {
+    max-width:100%; 
+}
 main {
     background-color: #F2EBE6;
     display: flex;
@@ -145,8 +148,22 @@ padding: 50px 0px;
 }
 
 
+.write {
+   color: #A79A66; 
+    
+    }
+    
+.write:hover {
+        color:#A79A66; 
 
+}
 
+.imginterior {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    padding: 50px 0px;
+}
 
 
 /* ILLUSTRATION */
@@ -273,6 +290,16 @@ padding: 50px 0px;
     transform: translateY(5px);
     box-shadow: 5px 5px 20px #403E43;
     }
+
+    .send {
+        color: black;
+         
+         }
+         
+     .send:hover {
+             color:black; 
+     
+     }
 
 /* ABOUT */
 
@@ -472,9 +499,7 @@ color: #403E43;
     font-weight: bold; 
     
 }
-.imgcabecera {
- 
-}
+
 
 .introtelboz {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -486,14 +511,14 @@ color: #403E43;
     position: relative;
 } 
 
-.researchtelboz {
+.textotelboz {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #403E43;
     text-align:left;
     justify-content:center;
     font-size: 1em;
     padding-left: 15%; padding-right: 15%;
-    position: relative;  
+    
 }
 
 .textoresaltar {
@@ -522,6 +547,14 @@ color: #403E43;
  
  .test {
      font-weight:  bold;
+ }
+
+ .imginterior {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 20px 0px;
+
  }
 
  /* MUSHNIK */
