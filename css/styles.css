@@ -2,7 +2,7 @@
 /* INTRO */
 
 img {
-    max-width:100%; 
+    max-width:100%;
 }
 main {
     background-color: #F2EBE6;
@@ -15,7 +15,7 @@ main {
 
 }
 .containerintro{
-background-color:#F2EBE6;  
+background-color:#F2EBE6;
 width: 100%;
 padding: 50px 0px;
 }
@@ -48,7 +48,7 @@ padding: 50px 0px;
 
 .hello {
     color:#A79A66;
-    font-weight: bold; 
+    font-weight: bold;
 }
 
 
@@ -76,7 +76,7 @@ padding: 50px 0px;
     background-color: white;
     width: 100%;
     padding: 20px 0px;
-    
+
 }
 .uxui{
     display: flex;
@@ -93,7 +93,7 @@ padding: 50px 0px;
     justify-content:center;
     font-size: 1em;
     font-style: oblique;
-    width: 100%;  
+    width: 100%;
     padding: 50px 0px;
 }
 .imagenesuxui {
@@ -108,7 +108,7 @@ padding: 50px 0px;
     align-items: center;
     flex-direction: column;
     padding: 5px 0px;
-}  
+}
    .imguxui1:hover {
         transition: all 0.17s ease-in-out;
         transform: translateY(5px);
@@ -124,7 +124,7 @@ padding: 50px 0px;
     align-items: center;
     flex-direction: column;
     padding: 5px 0px;
-  
+
 }
 .imguxui2:hover {
     transition: all 0.17s ease-in-out;
@@ -149,12 +149,12 @@ padding: 50px 0px;
 
 
 .write {
-   color: #A79A66; 
-    
+   color: #A79A66;
+
     }
-    
+
 .write:hover {
-        color:#A79A66; 
+        color:#A79A66;
 
 }
 
@@ -186,7 +186,7 @@ padding: 50px 0px;
     justify-content: space-around;
     align-items: flex-start;
     padding: 20px 0px;
-    
+
 }
 .imgillustrationabajo {
     display: flex;
@@ -204,8 +204,8 @@ padding: 50px 0px;
     justify-content:center;
     font-size: 1em;
     font-style: oblique;
-    width: 100%; 
-    padding: 20px 0px;    
+    width: 100%;
+    padding: 20px 0px;
 }
 
 .imgilustracion1{
@@ -256,7 +256,7 @@ padding: 50px 0px;
     flex-direction: column;
     padding: 5px 0px;
 }
-   
+
    .imgilustracion4:hover {
     transition: all 0.17s ease-in-out;
     transform: translateY(5px);
@@ -293,28 +293,29 @@ padding: 50px 0px;
 
     .send {
         color: black;
-         
+
          }
-         
+
      .send:hover {
-             color:black; 
-     
+             color:black;
+
      }
 
 /* ABOUT */
 
 .containerabout{
-    background-color:#F2EBE6; 
+    background-color:#F2EBE6;
     width: 100%;
     padding: 20px 0px;
+    position: relative;
 }
 .about{
     display: flex;
     justify-content: center;
     color: #403E43;
-    
 
-} 
+
+}
 .contenidoenabout {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #403E43;
@@ -323,30 +324,24 @@ padding: 50px 0px;
     font-size: 1em;
     padding-left: 25%; padding-right: 25%;
     position: relative;
-} 
+}
 
 
 
 .chocolate {
    position: absolute;
-   top:370%;
-   left:5%;
-  
-  
+   top: 50%;
+   left: 10%;
+   transform: translateY(-50%);
 }
 
 .cat {
  display: flex;
  justify-content: center;
  padding: 20px 0px;
-
 }
 
-.boat {
-position: absolute;
-top: 350%;
-right: 10%;
-}
+.boat {position: absolute;top: 50%;right: 10%;transform: translateY(-50%);}
 
 /* FOOTER */
 
@@ -355,7 +350,7 @@ right: 10%;
     background-color: #A79A66;
     padding: 40px 0px;
     width: 100%;
-    
+
 }
 .contenidofooterfirma {
 display: flex;
@@ -370,7 +365,7 @@ font-size: small;
     display: flex;
     width: 100%;
     color: white;
-    justify-content: space-around;  
+    justify-content: space-around;
     font-size: small;
     padding: 20px 0px;
     font-size: medium;
@@ -378,7 +373,7 @@ font-size: small;
 
 .contact {
     text-decoration: none;
-    color: white;  
+    color: white;
 
 }
 
@@ -421,17 +416,17 @@ color: #403E43;
 
 .uxuidesign {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 
 .uxuidesign a {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 .imgcabecera {
- 
+
 }
 
 .introrelart {
@@ -442,7 +437,7 @@ color: #403E43;
     font-size: 1em;
     padding: 3% 15%;
     position: relative;
-} 
+}
 
 .researchrelart {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -451,7 +446,7 @@ color: #403E43;
     justify-content:center;
     font-size: 1em;
     padding-left: 15%; padding-right: 15%; padding-top: 4%;
-    position: relative;  
+    position: relative;
 }
 
 .textoresaltar {
@@ -475,7 +470,7 @@ color: #403E43;
     text-align: center;
     justify-content: center;
     position: relative;
- 
+
  }
 
  .cristina {
@@ -484,20 +479,20 @@ color: #403E43;
    justify-content: center;
    padding-top: 10px; padding-bottom: 25px;
  }
- 
+
 
  /* TELBOZ */
 
  .uxuidesign {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 
 .uxuidesign a {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 
 
@@ -509,7 +504,7 @@ color: #403E43;
     font-size: 1em;
     padding: 6% 15%;
     position: relative;
-} 
+}
 
 .textotelboz {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -518,7 +513,7 @@ color: #403E43;
     justify-content:center;
     font-size: 1em;
     padding-left: 15%; padding-right: 15%;
-    
+
 }
 
 .textoresaltar {
@@ -542,9 +537,9 @@ color: #403E43;
     text-align: center;
     justify-content: center;
     position: relative;
- 
+
  }
- 
+
  .test {
      font-weight:  bold;
  }
@@ -561,17 +556,17 @@ color: #403E43;
 
  .uxuidesign {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 
 .uxuidesign a {
     color:#A79A66;
-    font-weight: bold; 
-    
+    font-weight: bold;
+
 }
 .imgcabecera {
- 
+
 }
 
 .intromushnik {
@@ -582,7 +577,7 @@ color: #403E43;
     font-size: 1em;
     padding: 6% 15%;
     position: relative;
-} 
+}
 
 .researchmushnik {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -591,7 +586,7 @@ color: #403E43;
     justify-content:center;
     font-size: 1em;
     padding-left: 15%; padding-right: 15%;
-    position: relative;  
+    position: relative;
 }
 
 .textoresaltar {
@@ -615,6 +610,35 @@ color: #403E43;
     text-align: center;
     justify-content: center;
     position: relative;
- 
+
  }
- 
+
+ @media screen and (max-width:1315px){
+    .contenidoenabout {
+        padding-left: 15%;
+        padding-right: 15%;
+        margin-bottom: 4rem;
+    }
+    .boat, .chocolate {
+        top: auto;
+        bottom: 20px;
+        transform: none;
+    }
+ }
+ @media screen and (max-width:540px){
+    .contenidoenabout {
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-bottom: 3rem;
+    }
+    .boat,
+    .chocolate,
+    .cat{
+        width: 13%;
+    }
+    .cat{
+        margin-left: auto;
+        margin-right: auto;
+        padding:0;
+    }
+ }
