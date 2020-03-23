@@ -480,6 +480,14 @@ color: #403E43;
    padding-top: 10px; padding-bottom: 25px;
  }
 
+ .imginterior {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 20px 0px;
+
+ }
+
 
  /* TELBOZ */
 
